@@ -86,4 +86,4 @@ async def on_message(msg):
     
 
 
-bot.run("NDI1Mzg2Nzk1MDc3ODYxMzg2.DZMNrA.WwTr0D_wpWaLTuq26mRG_PJmFU8")
+bot.run(os.getenv(TOKEN))
